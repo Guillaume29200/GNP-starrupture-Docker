@@ -1,5 +1,3 @@
-# VERSION ALPHA !!! NE PAS UTILISER EN PRODUCTION SANS TEST
-
 # 🪐 StarRupture Dedicated Server - GNP Standard
 
 ## 📌 Description
